@@ -1,2 +1,4 @@
 Step 1: order the pizza
-Step 2: wait for the pizza to be delivered
+Step 2: enter payment information
+Step 3: Wait for pizza to be delivered
+we are making a test 
